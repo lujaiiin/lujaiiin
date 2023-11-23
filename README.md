@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Study on **Alx SE**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C** **python** **bash**
 
 - 📫 How to reach me **lujainben232@gmail.com**
 
