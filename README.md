@@ -3,7 +3,7 @@
 
 <h3 align="left">Current Studies:</h3>
 <p align="left">
- - Studying at <a href="https://www.alx.se/" target="_blank" rel="noreferrer">Alx SE</a>
+ - 🔭 Studying at <a href="https://www.alx.se/" target="_blank" rel="noreferrer">Alx SE</a>
 </p>
 
 
