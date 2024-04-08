@@ -1,7 +1,7 @@
 <h1 align="center">Holla 👋, I'm lujain</h1>
 <h3 align="center">A passionate full stack developer from Libya</h3>
 
-- 🔭 Studying at <a href="https://www.alx.se/" target="_blank" rel="noreferrer">Alx SE</a>
+- 🔭 Studying at <a href="[https://www.alx.se/](https://www.alxafrica.com/)" target="_blank" rel="noreferrer">Alx SE</a>
 
 - 📫 How to reach me **lujainben232@gmail.com**
 
