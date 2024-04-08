@@ -2,12 +2,10 @@
 <h3 align="center">A passionate full stack developer from Libya</h3>
 
 - 🔭 Studying at <a href="https://www.alx.se/" target="_blank" rel="noreferrer">Alx SE</a>
-   
-- 🌱 I’m currently learning **C** **python** **bash**
 
 - 📫 How to reach me **lujainben232@gmail.com**
 
-- ⚡ Fun fact **khasho arghdo**
+- ⚡ Fun fact **Octopuses have three hearts, but they only use one. The other two? They're just for show!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
