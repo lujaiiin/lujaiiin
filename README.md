@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm lujaiiin</h1>
 <h3 align="center">A passionate full stack developer from Libya</h3>
 
-- 🔭 I’m currently Study on **Alx SE**
+<h3 align="left">Current Studies:</h3>
+<p align="left">
+ - Studying at <a href="https://www.alx.se/" target="_blank" rel="noreferrer">Alx SE</a>
+ - Pursuing a degree in [Your Degree] at [Your College Name]
+</p>
+
 
 - 🌱 I’m currently learning **C** **python** **bash**
 
